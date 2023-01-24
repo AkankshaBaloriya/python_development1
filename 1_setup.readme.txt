@@ -1,0 +1,1 @@
+1 download pycharm or visual studio to work with python(Integrated Development Environment)
