@@ -14,7 +14,7 @@ d=a.find(" ")
 # elif c is False:
 #     print("only alphabet allowd")
 # else:
-#     print(a)
+#     print(a) 
 
 # BOTH WORKS CORRECT BUT THE ABOVE ONEIS CODED BY ME AND BELOW ONE BY BRO CODE
 

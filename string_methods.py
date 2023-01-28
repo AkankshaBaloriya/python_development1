@@ -56,7 +56,7 @@ print(a.count("akki"))
 
 #replace(this repalce the  value or character from another)--------------------------------------------------
 
-a=input("enter statment here")  
+a=input("enter statment here") 
 print(a.replace("akki","akanksha"))
 
 
