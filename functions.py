@@ -1,6 +1,7 @@
 # functions= a block of reusable code
                 #  place () after the function name to invike it
 
+# positional----------------------------------------------------------------
 
 def happy_birthday(name, age, word):
     print(f"happy birthday to {name}!")
