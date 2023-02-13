@@ -14,3 +14,4 @@ age=list(filter(drink,friends))
 
 for i in age:
     print(i)
+    
