@@ -12,13 +12,13 @@ def update():
     datelabel.config(text=datestring)
 window=Tk()
 
-tlabel=Label(window,bg="black",fg="green",font=("Arial",100))
+tlabel=Label(window,bg="black",fg="green",font=("Arial",70))
 tlabel.pack()
 
-dlabel=Label(window,font=("Arial",100))
+dlabel=Label(window,font=("Arial",30))
 dlabel.pack()
 
-datelabel=Label(window,font=("Arial",100))
+datelabel=Label(window,font=("Arial",30))
 datelabel.pack()
 
 update()
